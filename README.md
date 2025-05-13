@@ -36,20 +36,35 @@ Multiplayer: Turn-based state sharing
 Logging: Files to track trades, diplomacy, battles
 
 🗂 Directory Layout
+
 less
+
 Copy
+
 Edit
+
 ├── game.h             // Kingdom class interface
+
 ├── game.cpp           // Core game mechanics (build, trade, train)
+
 ├── multiplayer.h      // Multiplayer system interface
+
 ├── multiplayer.cpp    // Multiplayer logic (chat, alliances, warfare)
+
 ├── main.cpp           // Game execution loop and UI
+
 ├── score.txt          // Records of scores/events
+
 ├── chat.txt           // Player messaging history
+
 ├── treaty.txt         // Logs of diplomatic relations
+
 ├── battle_log.txt     // Detailed battle records
+
 ├── market.txt         // Trade transactions
+
 ├── _save.txt          // Game save data
+
 ✅ Features Summary
 Kingdom Mechanics
 Resources: Gold, wood, food
