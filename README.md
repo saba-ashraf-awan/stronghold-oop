@@ -133,4 +133,4 @@ Data persistence with real-time log creation
 
 Designing game systems with diplomacy and risk-reward dynamics
 
-🎮 Step into your Kingdom – Build, Trade, Conquer, or Collaborate!
+🎮 Step into your Kingdom – Build, Trade, Conquer, or Collaborate
